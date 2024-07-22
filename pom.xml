@@ -11,6 +11,7 @@
     <packaging>pom</packaging>
     <modules>
         <module>rgo-wm-spring-autoconfig-common</module>
+        <module>rgo-wm-spring-autoconfig-web</module>
     </modules>
 
     <properties>
