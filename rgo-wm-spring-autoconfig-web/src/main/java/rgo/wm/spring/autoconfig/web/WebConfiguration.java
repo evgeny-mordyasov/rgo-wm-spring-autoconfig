@@ -6,5 +6,5 @@ import rgo.wm.spring.web.ExceptionResponseAdvice;
 
 @AutoConfiguration
 @Import(ExceptionResponseAdvice.class)
-class WebConfiguration {
+public class WebConfiguration {
 }

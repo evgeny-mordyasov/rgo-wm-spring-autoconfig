@@ -5,7 +5,7 @@ import org.springframework.context.annotation.Bean;
 import rgo.wm.spring.common.ReadinessEventListener;
 
 @AutoConfiguration
-class CommonConfiguration {
+public class CommonConfiguration {
 
     @Bean
     ReadinessEventListener readinessEventListener() {
